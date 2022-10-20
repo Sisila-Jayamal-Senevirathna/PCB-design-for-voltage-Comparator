@@ -22,3 +22,10 @@ The PCB was created at the Fabrication LAB.
 ![5 Plan view](https://user-images.githubusercontent.com/108692258/197043866-cb57e64e-669f-4210-b1ae-bb90120dbd84.png)
 ![7 Final Product](https://user-images.githubusercontent.com/108692258/197043875-a90f77c3-c075-4605-a4f6-a5a21df75cae.png)
 ![6 bottem view](https://user-images.githubusercontent.com/108692258/197043887-9b27d6df-0e96-49ee-8c1b-27dd1bc03066.png)
+
+
+#### Design and Documented by
+Sisila Jayamal Senevirathna.
+Faculty of Engineering,
+University Of Jaffan.
+All Rights Reserved!
