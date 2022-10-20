@@ -27,5 +27,5 @@ The PCB was created at the Fabrication LAB.
 #### Design and Documented by
 Sisila Jayamal Senevirathna.
 Faculty of Engineering,
-University Of Jaffan.
+University Of Jaffna.
 All Rights Reserved!
